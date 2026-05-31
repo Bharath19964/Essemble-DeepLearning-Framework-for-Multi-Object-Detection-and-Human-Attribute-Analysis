@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  background: #f1f3f6;
+  font-family: Inter, system-ui, Arial, sans-serif;
+  color: #212529;
+}
+
+.app-shell {
+  min-height: 100vh;
+}
+
+.app-topbar {
+  border-top: 4px solid #1f2937;
+  background: #ffffff;
+}
+
+.app-brand {
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.hero-main-card {
+  border-radius: 18px;
+  border: 1px solid #e5e7eb;
+}
+
+.hero-heading {
+  font-size: 2.2rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #1f2937;
+}
+
+.hero-subtext {
+  font-size: 1.1rem;
+  color: #6b7280;
+}
+
+.mini-pipeline-box {
+  background: #f8fafc;
+  border: 1px solid #dee2e6;
+  border-radius: 14px;
+  padding: 18px;
+}
+
+.app-card {
+  border-radius: 18px;
+  border: 1px solid #e5e7eb;
+}
+
+.section-title {
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #212529;
+}
+
+.empty-box {
+  min-height: 320px;
+  display: grid;
+  place-items: center;
+  border: 2px dashed #cbd5e1;
+  border-radius: 16px;
+  background: #f8fafc;
+  color: #64748b;
+}
+
+.preview-wrap {
+  border-radius: 14px;
+  overflow: hidden;
+  background: #f8fafc;
+}
+
+.plain-preview {
+  width: 100%;
+  display: block;
+  border-radius: 14px;
+}
+
+.camera-note {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: #6c757d;
+}

@@ -1,0 +1,11 @@
+flask
+flask-cors
+werkzeug
+opencv-python
+torch
+torchvision
+timm
+ultralytics
+facenet-pytorch
+pillow
+numpy
