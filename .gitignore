@@ -1,0 +1,9 @@
+models/
+outputs/
+__pycache__/
+*.pt
+*.pth
+*.log
+*.tmp
+*.cache
+.env
